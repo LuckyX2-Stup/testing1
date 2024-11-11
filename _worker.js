@@ -6,7 +6,7 @@ var listProxy = [
   { path: "/id-x", proxy: "103.186.1.209:2053" },
   { path: "/sg-tcc", proxy: "45.77.36.40" },
   { path: "/sgarya", proxy: "185.114.78.230" },
-  { path: "/sgtencent", proxy: "43.156.125.250:443" },
+  { path: "/sgtencent", proxy: "43.156.125.250" },
   //tambahin sendiri
 ];
 var proxyIP;
